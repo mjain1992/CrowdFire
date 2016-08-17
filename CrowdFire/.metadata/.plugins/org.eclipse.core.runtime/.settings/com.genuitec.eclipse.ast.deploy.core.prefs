@@ -1,0 +1,12 @@
+#Wed Aug 10 12:47:13 IST 2016
+myeclipseTomcatServer.Twitter.isDeployed=true
+myeclipseTomcatServer.Twitter.shouldBackup=false
+myeclipseTomcatServer.Twitter.contextRoot=/Twitter
+myeclipseTomcatServer.Twitter.deploymentPath=C\:\\Users\\Meghana\\CrowdFire\\.metadata\\.me_tcat\\webapps\\Twitter
+myeclipseTomcatServer.Twitter.isExploded=true
+myeclipseTomcatServer.Twitter.isUptoDate=true
+myeclipseTomcatServer.Twitter.earProjectName=
+eclipse.preferences.version=1
+myeclipseTomcatServer.Twitter.deployIsOverProject=false
+myeclipseTomcatServer.Twitter.type=WebDeployment
+myeclipseTomcatServer.Twitter.shouldOverwrite=false
