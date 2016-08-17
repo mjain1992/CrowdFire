@@ -1,11 +1,5 @@
 Assignment : CrowdFire
 
-
-you can test on my machine, I have deployed the same code here
-http://192.168.8.103:8080/Twitter/twitter.html
-
-OR 
-
 Instructions to build and run the code:
 
 1) Clone the github repository.
