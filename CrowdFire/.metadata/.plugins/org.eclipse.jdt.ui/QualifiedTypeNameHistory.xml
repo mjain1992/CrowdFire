@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.util.Date"/>
-<fullyQualifiedTypeName name="twitter4j.TwitterFactory"/>
-<fullyQualifiedTypeName name="TwitterFollowers"/>
-<fullyQualifiedTypeName name="twitter4j.JSONObject"/>
-<fullyQualifiedTypeName name="twitter4j.conf.ConfigurationBuilder"/>
-<fullyQualifiedTypeName name="twitter4j.auth.OAuth2Token"/>
-</qualifiedTypeNameHistroy>
